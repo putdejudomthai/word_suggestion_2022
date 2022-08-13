@@ -1,0 +1,2 @@
+download model from kaggle to this location and name it word2vec_TNC.model
+https://www.kaggle.com/datasets/putdejudomthai/word-suggestion-tnc-model-2022
